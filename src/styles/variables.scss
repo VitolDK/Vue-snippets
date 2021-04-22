@@ -1,0 +1,90 @@
+// Material colors
+$transparent:         transparent;
+$white:               #ffffff;
+$black:               #000000;
+$grey:                #9E9E9E;
+$blue-grey:           #607D8B;
+$brown:               #795548;
+$deep-orange:         #FF5722;
+$orange:              #FF9800;
+$lime:                #CDDC39;
+$light-green:         #8BC34A;
+$green:               #4CAF50;
+$teal:                #009688;
+$cyan:                #00BCD4;
+$indigo:              #3F51B5;
+$deep-purple:         #673AB7;
+$pink:                #E91E63;
+// Brand colors
+$brand-lime:          #D9E506;
+$brand-grey:          #818A8F;
+$brand-blue:          #00A8D0;
+$brand-purple:        #942D83;
+$brand-pink:          #CF2366;
+$brand-green:         #3DAA4B;
+$brand-orange:        #E06C2A;
+$blue-grey-darken-2:  #78909C;
+$blue-grey-darken-3:  #37474F;
+$blue-grey-darken-4:  #263238;
+$blue-grey-lighten-4: #BFCACF;
+$grey-lighten-1:      #D8D8D8;
+$grey-lighten-2:      #E0E0E0;
+$grey-lighten-3:      #E4E4E4;
+$grey-darken-2:       #808080;
+$grey-darken-3:       #424242;
+$grey-darken-4:       #333333;
+$blue-darken-1:       #2680EB;
+$blue-darken-2:       #005BB5;
+
+
+// Updated
+$red:                 #EC3924;
+$red-darken:          #AA1403;
+$accent:              #FBC02D;
+$light-green:         #D4E157;
+$green:               #87B42B;
+$dark-green:          #7D8C0E;
+$light-blue:          #6595BF;
+$blue-lighten-1:      #B8CFE0;
+$blue-darken-4:       #131A40;
+$blue-darken-5:       #101423;
+$blue-gray-2:         #3B6479;
+$blue-gray-3:         #4B6477;
+$blue-gray-4:         #78909C;
+$blue:                #1976D2;
+$grey-darken-1:       #E4E4E4;
+
+$grey-lighten-4:      #F2F2F2;
+
+$layout-bg-dark:     $blue-grey-darken-4;
+$layout-bg-light:    #FCFCFC;
+$layout-bg-is-active-panel:    #E8EEF0;
+$bar-bg-dark:    $blue-grey-darken-4;
+$bar-bg-light:   $white;
+
+$top-bar-bg-dark:    $blue-grey-darken-4;
+$top-bar-bg-light:   $white;
+
+$color-border--light: rgba(0, 0, 0, .1);
+$color-border--dark:  rgba(255, 255, 255, .2);
+$gradient: linear-gradient(180deg, rgba(19,26,64, .8) 0%, rgba(25,118,210, .8) 51%, rgba(184,207,224, .8) 100%) 0 0 no-repeat padding-box;
+
+//setting
+$min-width: 1128px;
+$layout-offset: 40px;
+$duration: .3s;
+$padding: 16px;
+$p10: 10px;
+$margin: 16px;
+$marginHalf: $margin / 2;
+$inner-padding: 40px;
+$border-radius: 6px;
+$border-radius-sm: 4px;
+$card-shadow: 0px 5px 10px #0000001A;
+$shadow: 2px 4px 20px -4px transparentize($grey-darken-3, .7);
+$shadow--light: 0px 3px 6px #0000001A;
+$shadow--dark: 0 4px 30px -3px transparentize($grey-darken-4, .2);
+$shadow--thin: 0 1px 2px #00000029;
+$grid-gap: 30px;
+
+$shake: shake .6s cubic-bezier(.25,.8,.5,1);
